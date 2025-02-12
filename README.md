@@ -22,5 +22,4 @@
 
 If you have any questions, issues, or feedback regarding the blips create script, please don't hesitate to contact us:
 
- - Support Discord: There is not yet.
- - Discord of the developer: julianorei#9410
+ - Support Discord: discord.gg/BqdGduDHQP
